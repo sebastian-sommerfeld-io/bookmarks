@@ -14,15 +14,15 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Amazon](https://www.amazon.de)
 - [Wikipedia DE](https://de.wikipedia.org)
 - [Wikipedia EN](https://en.wikipedia.org)
-- [Whatsapp Web](https://web.whatsapp.com/)
+- [Whatsapp Web](https://web.whatsapp.com)
 
 ## AI
 - [Chat GPT](https://chatgpt.com)
 - [Google Gemini](https://gemini.google.com/app)
 
 ## Social
-- [Facebook](http://www.facebook.com/)
-- [LinkedIn](https://www.linkedin.com/)
+- [Facebook](http://www.facebook.com)
+- [LinkedIn](https://www.linkedin.com)
 
 ## Dev Ops
 - [GitHub / Projects / sommerfeld.io](https://github.com/orgs/sommerfeld-io/projects/1/views/14)
@@ -47,78 +47,78 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 
 ### Docs + API References
 - [PlantUML.com](https://plantuml.com/de/deployment-diagram)
-- [PlantUML Editor 1](https://plantuml-editor.kkeisuke.com/)
-- [PlantUML Editor 2](https://plantuml.mseiche.de/)
-- [Jira 8.22.6](https://docs.atlassian.com/software/jira/docs/api/REST/8.22.6/)
-- [Jira 9.12.2](https://docs.atlassian.com/software/jira/docs/api/REST/9.12.2/)
+- [PlantUML Editor 1](https://plantuml-editor.kkeisuke.com)
+- [PlantUML Editor 2](https://plantuml.mseiche.de)
+- [Jira 8.22.6](https://docs.atlassian.com/software/jira/docs/api/REST/8.22.6)
+- [Jira 9.12.2](https://docs.atlassian.com/software/jira/docs/api/REST/9.12.2)
 
 ### Home + Infrastructure
 - [http://192.168.178.1/](FritzBox)
 - [DNS Propagation Checker](https://www.whatsmydns.net/#NS/cloud.sommerfeld.io)
-- [SSL Test](https://www.ssllabs.com/ssltest/)
+- [SSL Test](https://www.ssllabs.com/ssltest)
 
 ## Private
-- [iCloud](https://www.icloud.com/)
-- [MS Todo](https://to-do.live.com/tasks/)
-- [Faustball.de](http://www.faustball.de/)
+- [iCloud](https://www.icloud.com)
+- [MS Todo](https://to-do.live.com/tasks)
+- [Faustball.de](http://www.faustball.de)
 
 ### Banking
-- [DB Online-Banking](https://meine.deutsche-bank.de/trxm/db/)
+- [DB Online-Banking](https://meine.deutsche-bank.de/trxm/db)
 - [Postbank: Kundenbereich](https://privatkredit.postbank.de/pbkredit-kundenbereich-web/login.do?nr=27072908)
 - [PayPal](https://www.paypal.com/de/webapps/mpp/privatkunden)
 - [PayPal.Me/SebastianSommerfeld](https://www.paypal.me/SebastianSommerfeld)
-- [Klarna](https://www.klarna.com/de/)
+- [Klarna](https://www.klarna.com/de)
 
 ### Fussball
-- [Kicker](http://www.kicker.de/)
-- [Kicktipp](https://www.kicktipp.de/)
+- [Kicker](http://www.kicker.de)
+- [Kicktipp](https://www.kicktipp.de)
 - [Tipico](https://sports.tipico.de/de)
 
-### Motorsport
+### Motor Sport
 - [Green Hell Driving](https://www.greenhelldriving.nuerburgring.de/#/dashboard)
-- [MotoGP](http://www.motogp.com/)
+- [MotoGP](http://www.motogp.com)
 - [MotoGP - Race Videos](https://www.motogp.com/en/videopass)
-- [Formula1.com](https://www.formula1.com/)
+- [Formula1.com](https://www.formula1.com)
 
 ### NHL + DEL + Football
-- [ESPN](http://espn.go.com/nhl/)
-- [NHL.com](http://www.nhl.com/)
-- [TSN](http://www.tsn.ca/nhl/)
+- [ESPN](http://espn.go.com/nhl)
+- [NHL.com](http://www.nhl.com)
+- [TSN](http://www.tsn.ca/nhl)
 - [Bleacher Report](http://bleacherreport.com/detroit-red-wings)
-- [MLive.com](http://www.mlive.com/redwings/)
-- [DEG](http://www.deg-eishockey.de/)
-- [DEL](http://www.del.org/)
-- [Rhein Fire](https://www.rheinfire.eu/)
+- [MLive.com](http://www.mlive.com/redwings)
+- [DEG](http://www.deg-eishockey.de)
+- [DEL](http://www.del.org)
+- [Rhein Fire](https://www.rheinfire.eu)
 - [NFL.com](https://www.nfl.com)
 
 ### TV + Streaming
-- [Disney+](https://www.disneyplus.com/)
+- [Disney+](https://www.disneyplus.com)
 - [Netflix](https://www.netflix.com/browse)
-- [Paramount+](https://www.paramountplus.com/home/)
+- [Paramount+](https://www.paramountplus.com/home)
 - [Prime Video](https://www.amazon.de/gp/video/mystuff/watchlist?ref_=nav_AccountFlyout_ywl)
 - [Sport - Sky Ticket](https://skyticket.sky.de/watch/sport/highlights)
 
 ## Blogs
-- [codecentric Blog](https://blog.codecentric.de/)
-- [DennisWilmsmann.de](http://www.denniswilmsmann.de/)
-- [JAXenter.com](http://jaxenter.com/)
-- [it republik - Jaxenter](http://it-republik.de/jaxenter/)
-- [Java Code Geeks](http://www.javacodegeeks.com/)
+- [codecentric Blog](https://blog.codecentric.de)
+- [DennisWilmsmann.de](http://www.denniswilmsmann.de)
+- [JAXenter.com](http://jaxenter.com)
+- [it republik - Jaxenter](http://it-republik.de/jaxenter)
+- [Java Code Geeks](http://www.javacodegeeks.com)
 - [Work Life by Atlassian](https://www.atlassian.com/blog)
-- [Network Chuck](https://networkchuck.com/)
-- [Docker Blog - Docker](https://www.docker.com/blog/)
-- [GitHub Blog](https://github.blog/)
-- [GitLab Blog](https://about.gitlab.com/blog/)
-- [Enable Sysadmin | RedHat](https://www.redhat.com/sysadmin/)
+- [Network Chuck](https://networkchuck.com)
+- [Docker Blog - Docker](https://www.docker.com/blog)
+- [GitHub Blog](https://github.blog)
+- [GitLab Blog](https://about.gitlab.com/blog)
+- [Enable Sysadmin | RedHat](https://www.redhat.com/sysadmin)
 - [Ansible Blog | Ansible.com](https://www.ansible.com/blog?hsLang=en-us)
-- [martinfowler.com](https://martinfowler.com/)
+- [martinfowler.com](https://martinfowler.com)
 
 ## News
-- [http://www.rp-online.de/](http://www.rp-online.de/)
-- [http://www.spiegel.de/](http://www.spiegel.de/)
-- [http://www.stern.de/](http://www.stern.de/)
-- [http://www.economist.com/](http://www.economist.com/)
-- [http://www.heise.de/](http://www.heise.de/)
+- [http://www.rp-online.de/](RP-Online)
+- [http://www.spiegel.de/](Spiegel.de)
+- [http://www.stern.de/](Stern.de)
+- [http://www.economist.com/](Economist.com)
+- [http://www.heise.de/](Heise.de)
 
 ## Office
 todo ...
@@ -129,16 +129,16 @@ todo ...
 - [Abschlusszertifikat für LinkedIn Learning](https://www.linkedin.com/learning/certificates/45a91e293b94d3530eef26dafe55f32c70fe7eb97394f84515f8fd0dde50af6d?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3wlY7kwHRWKp9COW2N%2Frwg%3D%3D)
 - [Abschlusszertifikat für LinkedIn Learning](https://www.linkedin.com/learning/certificates/5eb478aa1fecca97237af896447e8d79c6636f17fbd3ac44d72fbd04d24c868c?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgQR7jyMBSQmJJ%2B7Xkyyc9A%3D%3D)
 - [Abschlusszertifikat für LinkedIn Learning](https://www.linkedin.com/learning/certificates/c60ed2c4fb2714dfd7b4b2b3ef803be4e6eca4459c9bb516f6b4133ef65035a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgQR7jyMBSQmJJ%2B7Xkyyc9A%3D%3D)
-- [Browse all courses, learning paths, and modules - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/)
+- [Browse all courses, learning paths, and modules - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/browse)
 - [GitHub Foundations | Microsoft Learn](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
-- [Introduction to GitHub Copilot - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)
-- [Complete Kotlin development masterclass | Udemy](https://www.udemy.com/course/kotlinmasterclass/)
-- [Build RESTFUL APIs using Kotlin and Spring Boot | Udemy](https://www.udemy.com/course/build-restful-apis-using-kotlin-and-spring-boot/)
-- [Kotlin for Beginners: Learning Programming With Kotlin | Udemy](https://www.udemy.com/course/kotlin-course/)
+- [Introduction to GitHub Copilot - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot)
+- [Complete Kotlin development masterclass | Udemy](https://www.udemy.com/course/kotlinmasterclass)
+- [Build RESTFUL APIs using Kotlin and Spring Boot | Udemy](https://www.udemy.com/course/build-restful-apis-using-kotlin-and-spring-boot)
+- [Kotlin for Beginners: Learning Programming With Kotlin | Udemy](https://www.udemy.com/course/kotlin-course)
 - [Dave Farley on Continuous Delivery](https://courses.cd.training/courses/cd-pipelines-webinar)DD_DATE="1700864859" LAST_MODIFIED="1706081781">Certs
 
 ## Misc
-- [Instaffo](https://app.instaffo.com/)
+- [Instaffo](https://app.instaffo.com)
 
 ### Check out some day
 - [Code See](https://www.codesee.io)
