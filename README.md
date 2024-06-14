@@ -11,7 +11,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Google Maps](https://www.google.de/maps/dir/Oranienburger+Stra%C3%9Fe,+D-40599+D%C3%BCsseldorf,+Deutschland/Provinzialpl.+1,+40591+D%C3%BCsseldorf,+Deutschland/@51.1878908,6.8180407,14z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47b8cc89cf7c11d3:0xd6dbacbf10bf0d3b!2m2!1d6.8644714!2d51.1866911!1m5!1m1!1s0x47b8cba6879d175d:0x251c5df8ef346fee!2m2!1d6.8116573!2d51.1958793?entry=ttu)
 - [Google One](https://one.google.com)
 - [Google Admin Console](https://admin.google.com)
-- [Amazon](https://www.amazon.de)
+- [Amazon.com](https://www.amazon.de)
 - [Wikipedia DE](https://de.wikipedia.org)
 - [Wikipedia EN](https://en.wikipedia.org)
 - [Whatsapp Web](https://web.whatsapp.com)
