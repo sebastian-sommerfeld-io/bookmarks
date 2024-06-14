@@ -44,7 +44,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [stackoverflow.com](https://stackoverflow.com)
 - [superuser.com](https://superuser.com)
 - [serverfault.com](https://serverfault.com)
-- [https://askubuntu.com/](askubuntu.com)
+- [askubuntu.com](https://askubuntu.com)
 
 ### Docs + API References
 - [PlantUML.com](https://plantuml.com/de/deployment-diagram)
