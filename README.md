@@ -1,5 +1,3 @@
-# bookmarks
-
 # Bookmarks
 
 This repository contains a collection of my relevant bookmarks. It serves as a simple way to organize and access all the websites and resources that I frequently visit. Feel free to explore and use these bookmarks for your own convenience.
