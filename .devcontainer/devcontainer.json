@@ -1,0 +1,28 @@
+{
+  "name": "bookmarks",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": [
+        "streetsidesoftware.code-spell-checker",
+        "asciidoctor.asciidoctor-vscode",
+        "ms-azuretools.vscode-docker",
+        "aaron-bond.better-comments",
+        "pomdtr.markdown-kroki",
+        "timonwong.shellcheck",
+        "jebbs.plantuml",
+        "github.vscode-github-actions",
+        "redhat.vscode-yaml",
+        "GitHub.copilot"
+      ]
+    }
+  },
+
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2.10.2": {}
+  }
+}

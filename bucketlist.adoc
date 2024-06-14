@@ -1,0 +1,55 @@
+= Read
+
+- [ ] https://opensource.guide
+- [ ] link:https://github.blog/2024-03-07-hard-and-soft-skills-for-developers-coding-in-the-age-of-ai[Hard and soft skills for developers coding in the age of AI]
+- [ ] link:https://www.docker.com/blog/are-containers-only-for-microservices-myth-debunked[Are Containers Only for Microservices? Myth Debunked]
+- [ ] link:https://www.docker.com/resources/2024-03-03-hits-racetrack-developer-tools[Docker Navigator: Docker Hits the Racetrack & Unveils Latest Developer Tools]
+- [ ] link:https://www.atlassian.com/blog/strategy/responsible-tech-guide[Translating principles to practice: Our No-BS Guide to Responsible Tech Reviews]
+- [ ] link:https://devm.io/devops/next-gen-devops[Harnessing the Power of AI and ML for Continuous Improvement]
+- [ ] link:https://www.atlassian.com/blog/teamwork/toxic-work-culture[5 signs of a toxic work culture (and what to do if you’re stuck in one)]
+- [ ] link:https://www.atlassian.com/blog/distributed-work/intentional-togetherness-research[Office attendance doesn’t drive team connection. So what does?]
+- [ ] link:https://www.atlassian.com/blog/strategy/responsible-tech-guide[Translating principles to practice: Our No-BS Guide to Responsible Tech Reviews]
+- [ ] link:https://www.docker.com/blog/are-containers-only-for-microservices-myth-debunked[Are Containers Only for Microservices? Myth Debunked]
+- [ ] link:https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel[Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel]
+- [ ] link:https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci[How to Use Testcontainers on Jenkins CI]
+- [ ] link:https://github.blog/2024-03-07-hard-and-soft-skills-for-developers-coding-in-the-age-of-ai[Hard and soft skills for developers coding in the age of AI]
+- [ ] link:https://github.blog/2024-03-06-how-github-uses-merge-queue-to-ship-hundreds-of-changes-every-day[How GitHub uses merge queue to ship hundreds of changes every day]
+- [ ] link:https://github.blog/2024-02-29-keeping-secrets-out-of-public-repositories[Keeping secrets out of public repositories]
+- [ ] Another important development in supply chain security is the cross-organization collaboration on the Supply-chain Levels for Software Artifacts (SLSA) framework. The website link:https://slsa.dev[https://slsa.dev] is worth a read.
+- [x] https://unfix.com/blog/hard-soft-not-agile
+- [ ] link:https://reactivemanifesto.org[Reactive Manifesto] and link:https://www.reactiveprinciples.org[Reactive Principles]
+- [x] link:https://github.blog/2023-11-16-security-best-practices-for-authors-of-github-actions[Security best practices for authors of GitHub Actions]
+- [x] https://monorepo.tools
+- [x] https://trunkbaseddevelopment.com
+- [x] link:https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries[Supercharging GitHub Actions with Job Summaries]
+- [x] link:https://github.blog/2023-11-02-celebrating-the-first-round-of-github-accelerator-and-whats-next[Celebrating the first round of GitHub Accelerator and what’s next]
+- [x] link:https://stackoverflow.blog/2023/10/16/is-ai-enough-to-increase-your-productivity[Is AI enough to increase your productivity?]
+- [x] link:https://www.ansible.com/blog/seeding-ansible-automation-platform-content-at-installation-time[Seeding Ansible Automation Platform Content At Installation Time]
+- [x] link:https://github.blog/2023-10-27-developers-are-the-first-group-to-adopt-ai-at-work-heres-why-that-matters[Developers are the first group to adopt AI at work. Here’s why that matters]
+- [ ] link:https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications[The architecture of today’s LLM applications]
+- [ ] link:https://github.blog/2023-10-27-demystifying-llms-how-they-can-do-things-they-werent-trained-to-do[Demystifying LLMs: How they can do things they weren’t trained to do]
+- [x] link:https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi[Conway’s Law: the little-known principle that influences your work more than you think]
+- [ ] link:https://www.atlassian.com/blog/productivity/the-problem-with-productivity-metrics[It’s time to stop measuring productivity]
+- [x] link:https://github.blog/2023-10-31-introducing-the-github-transparency-center[Introducing the GitHub transparency center]
+- [ ] link:https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.infoq.com%2Fnews%2F2007%2F08%2Fwerner-vogels-pres%2F&data=05%7C01%7Csebastian.sommerfeld%40provinzial.com%7C77f2eae22f204e0b1f4708dba4c65439%7C1a6db01b8131402a9eb676574bbaf515%7C1%7C0%7C638284944010097717%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Zjj8tqFm2lUr40AwdaCmJETWvE2XHybPmFgL75H7BDQ%3D&reserved=0[Presentation: Amazon CTO Werner Vogels on Availability and Consistency]
+- [ ] link:https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Faws.amazon.com%2Fde%2Fbuilders-library%2Fautomating-safe-hands-off-deployments%2F&data=05%7C01%7Csebastian.sommerfeld%40provinzial.com%7C529ae76ece55431e585508dba4c6360f%7C1a6db01b8131402a9eb676574bbaf515%7C1%7C0%7C638284943430358991%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=bPtk0kljhQC%2BUymTeZbxbRXO4X0DgorBytPTuGtR4NU%3D&reserved=0[Automatisierung sicherer, vollautomatischer Bereitstellungen]
+- [ ] link:https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.infoq.com%2Fnews%2F2020%2F07%2Fcontinuous-delivery-amazon%2F&data=05%7C01%7Csebastian.sommerfeld%40provinzial.com%7C3112f6468c0e4f38042408dba4c60ed9%7C1a6db01b8131402a9eb676574bbaf515%7C1%7C0%7C638284942783757384%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3L8tb9%2BaqqL2pFpgW4xEvmuQDkHah9%2F9OHfdt499LIc%3D&reserved=0[How Amazon Teams Do Continuous Delivery]
+- [x] link:https://ntia.gov/sites/default/files/publications/sbom_at_a_glance_apr2021_0.pdf[SBOM]
+- [x] https://docs.docker.com/engine/sbom
+- [x] link:https://www.codecentric.de/wissens-hub/blog/zero-trust-architecture-why-we-need-to-end-perimeter-based-security[Zero-trust architecture - Why we need to end perimeter-based security]
+- [x] link:https://www.docker.com/blog/announcing-docker-scout-ga[Announcing Docker Scout GA: Actionable Insights for the Software Supply Chain]
+- [x] link:https://www.docker.com/blog/announcing-docker-compose-watch-ga-release[Announcing Docker Compose Watch GA Release]
+- [ ] link:https://github.blog/2023-10-04-how-to-communicate-like-a-github-engineer-our-principles-practices-and-tools[How to communicate like a GitHub engineer: our principles, practices, and tools]
+- [ ] link:https://github.blog/2023-10-03-3-strategies-to-expand-your-threat-model-and-secure-your-supply-chain[3 strategies to expand your threat model and secure your supply chain]
+- [ ] link:https://github.blog/2023-09-26-how-github-uses-github-actions-and-actions-larger-runners-to-build-and-test-github-com[How GitHub uses GitHub Actions and Actions larger runners to build and test GitHub.com]
+- [x] link:https://www.ansible.com/blog/announcing-containerized-ansible-automation-platform[Announcing Containerized Ansible Automation Platform]
+- [x] link:https://www.ansible.com/blog/new-ansible-galaxy[New Ansible Galaxy]
+- [x] Next-generation Docker Build
+- [ ] link:https://stackoverflow.blog/2020/12/07/measuring-developer-productivity[Can developer productivity be measured?]
+- [ ] https://opensource.guide
+- [ ] https://thefrugalarchitect.com
+- [ ] link:https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies[Do you know if all your repositories have up-to-date dependencies?]
+- [ ] link:https://github.blog/2024-01-23-good-devex-increases-productivity[Good DevEx increases productivity]
+- [ ] link:https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important[How to get in the flow while coding and why it's important]
+- [ ] link:https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot[10 unexpected ways to use GitHub Copilot]
+- [ ] link:https://www.heise.de/news/Schlechte-Code-Qualitaet-durch-die-KI-Assistenten-GitHub-Copilot-und-ChatGPT-9609271.html[Schlechte Code-Qualität durch die KI-Assistenten GitHub Copilot und ChatGPT]

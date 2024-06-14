@@ -51,6 +51,7 @@ todo ...
 === Check out some day
 * link:https://www.codesee.io[Code See]
 * link:https://www.codetriage.com[Code Triage]
+- link:https://github.blog/2024-02-15-build-code-security-skills-with-the-github-secure-code-game[Build code security skills with the GitHub Secure Code Game]
 
 === UI Templates
 * link:https://themes.3rdwavemedia.com/bootstrap-templates/personal/devblog-free-bootstrap-5-blog-template-for-developers[Dev Blog]
