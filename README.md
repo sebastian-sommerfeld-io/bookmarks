@@ -43,7 +43,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [stackoverflow.com](https://stackoverflow.com)
 - [superuser.com](https://superuser.com)
 - [serverfault.com](https://serverfault.com)
-- [https://askubuntu.com/](https://askubuntu.com)
+- [https://askubuntu.com/](askubuntu.com)
 
 ### Docs + API References
 - [PlantUML.com](https://plantuml.com/de/deployment-diagram)
@@ -53,7 +53,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Jira 9.12.2](https://docs.atlassian.com/software/jira/docs/api/REST/9.12.2)
 
 ### Home + Infrastructure
-- [http://192.168.178.1/](FritzBox)
+- [FritzBox](http://192.168.178.1)
 - [DNS Propagation Checker](https://www.whatsmydns.net/#NS/cloud.sommerfeld.io)
 - [SSL Test](https://www.ssllabs.com/ssltest)
 
