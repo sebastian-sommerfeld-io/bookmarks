@@ -15,6 +15,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Wikipedia DE](https://de.wikipedia.org)
 - [Wikipedia EN](https://en.wikipedia.org)
 - [Whatsapp Web](https://web.whatsapp.com)
+- [Youtube](https://youtube.com)
 
 ## AI
 - [Chat GPT](https://chatgpt.com)
