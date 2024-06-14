@@ -120,9 +120,6 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [http://www.economist.com/](Economist.com)
 - [http://www.heise.de/](Heise.de)
 
-## Office
-todo ...
-
 ## Certs
 - [Certs](https://www.linkedin.com/learning/certificates/27b6908421caa03113d1e0bff7fd851b415820bf3cd7bd256c6c2a4dbde6bb9d?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BXArTARDKS2i%2FeGyOq5FM4g%3D%3D)
 - [Abschlusszertifikat für LinkedIn Learning](https://www.linkedin.com/learning/certificates/e60ab016a7579113b5040bf006bd64aeefc0aa1267cfe2838590e99916fad4f0?trk=share_certificate)
