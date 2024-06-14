@@ -1,0 +1,54 @@
+---
+## Github Actions workflow, that handles the automatic assignment of newly created issues and pull
+## requests to specific projects and users. By leveraging this workflow, tasks and contributions are
+## efficiently tracked and assigned, ensuring clear ownership and streamlined collaboration within
+## your development projects. It is designed to automatically trigger whenever new issues or Pull
+## Requests are created.
+
+name: 'Housekeeping: Issues + PRs'
+
+on:
+  issues:
+    types:
+      - opened
+  pull_request:
+    types:
+      - opened
+      - assigned
+
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+  repository-projects: write
+
+jobs:
+  assign-issue-to-user:
+    name: Assign to user
+    runs-on: ubuntu-latest
+    if: "${{ github.actor != 'dependabot[bot]' }}"
+    steps:
+      - name: Assign issue to user when moved into column
+        uses: pozil/auto-assign-issue@v2
+        # https://github.com/marketplace/actions/auto-assign-issue
+        with:
+          assignees: ${{ github.actor }}
+          numOfAssignee: 1
+          allowSelfAssign: true
+          abortIfPreviousAssignees: true
+
+  set-issue-labels:
+    name: Set label for issues (if not user-story)
+    runs-on: ubuntu-latest
+    if: "${{ github.event.issue && !contains(github.event.issue.labels.*.name, 'user-story') }}"
+    steps:
+      - name: Set label
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ['task']
+            })

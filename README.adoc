@@ -1,0 +1,56 @@
+= bookmarks
+
+Simple repository with all my relevant bookmarks.
+
+* link:https://www.google.de[Google]
+* link:https://mail.google.com/mail/u/0/?hl=de&tab=wm#inbox[Gmail]
+* link:https://calendar.google.com/calendar/u/0/r[Google Calendar]
+* link:https://drive.google.com/drive/my-drive[Google Drive]
+* link:https://photos.google.com/?pli=1[Google Fotos]
+* link:https://www.google.de/maps/dir/Oranienburger+Stra%C3%9Fe,+D-40599+D%C3%BCsseldorf,+Deutschland/Provinzialpl.+1,+40591+D%C3%BCsseldorf,+Deutschland/@51.1878908,6.8180407,14z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47b8cc89cf7c11d3:0xd6dbacbf10bf0d3b!2m2!1d6.8644714!2d51.1866911!1m5!1m1!1s0x47b8cba6879d175d:0x251c5df8ef346fee!2m2!1d6.8116573!2d51.1958793?entry=ttu[Google Maps]
+* link:https://one.google.com[Google One]
+* link:https://admin.google.com[Google Admin Console]
+* link:https://www.amazon.de[Amazon]
+* link:https://de.wikipedia.org[Wikipedia DE]
+* link:https://en.wikipedia.org[Wikipedia EN]
+
+== AI
+* link:https://chatgpt.com[Chat GPT]
+* link:https://gemini.google.com/app[Google Gemini]
+
+== Dev Ops
+* link:https://github.com/orgs/sommerfeld-io/projects/1/views/14[GitHub / Projects / sommerfeld.io]
+* link:https://github.com/sebastian-sommerfeld-io[GitHub / Personal Repos]
+* link:https://github.com/sommerfeld-io[GitHub / Sommerfeld.io]
+* link:https://gist.github.com/sebastian-sommerfeld-io[GitHub / Gist]
+* link:https://maintainers.github.com[GitHub / Maintainer Community]
+* link:https://hub.docker.com/u/sommerfeldio[DockerHub]
+* link:https://sonarcloud.io/projects[SonarCloud]
+* link:https://vault.bitwarden.com/#/login[Bitwarden Web Vault]
+
+=== Hosting
+* link:https://kas.all-inkl.com[All Inkl KAS]
+* link:https://cloud.linode.com/linodes[Linode]
+* link:https://cloud.digitalocean.com/login[DigitalOcean]
+
+=== Forums + Help
+* link:https://stackoverflow.com[stackoverflow.com]
+* link:https://superuser.com[superuser.com]
+* link:https://serverfault.com[serverfault.com]
+* link:https://askubuntu.com[https://askubuntu.com/]
+
+== Private
+todo ...
+
+== Office
+todo ...
+
+== Certs
+
+== Misc
+=== Check out some day
+* link:https://www.codesee.io[Code See]
+* link:https://www.codetriage.com[Code Triage]
+
+=== UI Templates
+* link:https://themes.3rdwavemedia.com/bootstrap-templates/personal/devblog-free-bootstrap-5-blog-template-for-developers[Dev Blog]
