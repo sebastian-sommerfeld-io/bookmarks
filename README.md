@@ -132,7 +132,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Complete Kotlin development masterclass | Udemy](https://www.udemy.com/course/kotlinmasterclass)
 - [Build RESTFUL APIs using Kotlin and Spring Boot | Udemy](https://www.udemy.com/course/build-restful-apis-using-kotlin-and-spring-boot)
 - [Kotlin for Beginners: Learning Programming With Kotlin | Udemy](https://www.udemy.com/course/kotlin-course)
-- [Dave Farley on Continuous Delivery](https://courses.cd.training/courses/cd-pipelines-webinar)DD_DATE="1700864859" LAST_MODIFIED="1706081781">Certs
+- [Dave Farley on Continuous Delivery](https://courses.cd.training/courses/cd-pipelines-webinar)
 
 ## Misc
 - [Instaffo](https://app.instaffo.com)
