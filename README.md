@@ -55,6 +55,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 
 ### Home + Infrastructure
 - [FritzBox](http://192.168.178.1)
+- [Pi-hole on RasPi node 'pihole.fritz.box'](http://pihole.fritz.box/admin)
 - [DNS Propagation Checker](https://www.whatsmydns.net/#NS/cloud.sommerfeld.io)
 - [SSL Test](https://www.ssllabs.com/ssltest)
 
