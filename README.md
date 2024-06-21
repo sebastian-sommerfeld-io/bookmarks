@@ -41,10 +41,10 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [DigitalOcean](https://cloud.digitalocean.com/login)
 
 ### Forums + Help
-- [stackoverflow.com](https://stackoverflow.com)
-- [superuser.com](https://superuser.com)
-- [serverfault.com](https://serverfault.com)
-- [askubuntu.com](https://askubuntu.com)
+- [StackOverflow.com](https://stackoverflow.com)
+- [SuperUser.com](https://superuser.com)
+- [ServerFault.com](https://serverfault.com)
+- [AskUbuntu.com](https://askubuntu.com)
 
 ### Docs + API References
 - [PlantUML.com](https://plantuml.com/de/deployment-diagram)
