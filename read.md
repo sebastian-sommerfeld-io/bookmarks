@@ -1,5 +1,8 @@
 # Read
 
+- [ ] [New research: How to make quality decisions quickly](https://www.atlassian.com/blog/strategy/how-to-make-quality-decisions)
+- [ ] [Decision fatigue: what to do when endless choices are sapping your energy](https://www.atlassian.com/blog/productivity/decision-fatigue)
+- [ ] [Using Generative AI to Create Runnable Markdown](https://www.docker.com/blog/using-generative-ai-to-create-runnable-markdown/)
 - [ ] [https://opensource.guide](https://opensource.guide)
 - [ ] [Hard and soft skills for developers coding in the age of AI](https://github.blog/2024-03-07-hard-and-soft-skills-for-developers-coding-in-the-age-of-ai)
 - [ ] [Are Containers Only for Microservices? Myth Debunked](https://www.docker.com/blog/are-containers-only-for-microservices-myth-debunked)
