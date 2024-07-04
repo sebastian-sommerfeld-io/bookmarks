@@ -113,6 +113,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [GitLab Blog](https://about.gitlab.com/blog)
 - [Enable Sysadmin | RedHat](https://www.redhat.com/sysadmin)
 - [Ansible Blog | Ansible.com](https://www.ansible.com/blog?hsLang=en-us)
+- [Architect Elevator Blog](https://architectelevator.com/blog/)
 - [martinfowler.com](https://martinfowler.com)
 
 ## News
