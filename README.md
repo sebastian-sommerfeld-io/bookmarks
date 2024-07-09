@@ -60,7 +60,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [SSL Test](https://www.ssllabs.com/ssltest)
 
 ## Private
-- [iCloud](https://www.icloud.com)
+- [Apple iCloud](https://www.icloud.com)
 - [MS Todo](https://to-do.live.com/tasks)
 - [Faustball.de](http://www.faustball.de)
 
