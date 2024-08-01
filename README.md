@@ -20,6 +20,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 ## AI
 - [Chat GPT](https://chatgpt.com)
 - [Google Gemini](https://gemini.google.com/app)
+- [Google AI Studio](https://aistudio.google.com/app)
 
 ## Social
 - [Facebook](http://www.facebook.com)
