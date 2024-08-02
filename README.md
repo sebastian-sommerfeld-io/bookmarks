@@ -95,12 +95,13 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Rhein Fire](https://www.rheinfire.eu)
 - [NFL.com](https://www.nfl.com)
 
-### TV + Streaming
+### TV + Streaming + Music
 - [Disney+](https://www.disneyplus.com)
 - [Netflix](https://www.netflix.com/browse)
 - [Paramount+](https://www.paramountplus.com/home)
 - [Prime Video](https://www.amazon.de/gp/video/mystuff/watchlist?ref_=nav_AccountFlyout_ywl)
-- [Sport - Sky Ticket](https://skyticket.sky.de/watch/sport/highlights)
+- [Spotify](https://www.spotify.com)
+- [Wow / Sky Ticket](https://skyticket.sky.de/watch/sport/highlights)
 
 ## Blogs
 - [codecentric Blog](https://blog.codecentric.de)
