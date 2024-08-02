@@ -82,6 +82,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [MotoGP](http://www.motogp.com)
 - [MotoGP - Race Videos](https://www.motogp.com/en/videopass)
 - [Formula1.com](https://www.formula1.com)
+- [Motorsport-Magazin.com](https://www.motorsport-magazin.com)
 
 ### NHL + DEL + Football
 - [ESPN](http://espn.go.com/nhl)
