@@ -48,7 +48,7 @@
 - [x] [Announcing Containerized Ansible Automation Platform](https://www.ansible.com/blog/announcing-containerized-ansible-automation-platform)
 - [x] [New Ansible Galaxy](https://www.ansible.com/blog/new-ansible-galaxy)
 - [ ] [Can developer productivity be measured?](https://stackoverflow.blog/2020/12/07/measuring-developer-productivity)
-- [ ] [https://thefrugalarchitect.com](https://thefrugalarchitect.com)
+- [ ] [https://thefrugalarchitect.com](The Frugal Architect.com)
 - [ ] [Do you know if all your repositories have up-to-date dependencies?](https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies)
 - [ ] [Good DevEx increases productivity](https://github.blog/2024-01-23-good-devex-increases-productivity)
 - [ ] [How to get in the flow while coding and why it's important](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important)
