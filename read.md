@@ -54,3 +54,6 @@
 - [ ] [How to get in the flow while coding and why it's important](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important)
 - [ ] [10 unexpected ways to use GitHub Copilot](https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot)
 - [ ] [Schlechte Code-Qualität durch die KI-Assistenten GitHub Copilot und ChatGPT](https://www.heise.de/news/Schlechte-Code-Qualitaet-durch-die-KI-Assistenten-GitHub-Copilot-und-ChatGPT-9609271.html)
+
+# Memo
+- [ ] [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
