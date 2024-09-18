@@ -143,6 +143,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 
 ## Misc
 - [Instaffo](https://app.instaffo.com)
+- [Ich bei PayPay](https://www.paypal.me/SebastianSommerfeld)
 
 ### Check out some day
 - [Code See](https://www.codesee.io)
