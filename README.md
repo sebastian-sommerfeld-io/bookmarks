@@ -21,6 +21,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Chat GPT](https://chatgpt.com)
 - [Google Gemini](https://gemini.google.com/app)
 - [Google AI Studio](https://aistudio.google.com/app)
+- [GitHub CoPilot](https://github.com/copilot)
 
 ## Social
 - [Facebook](http://www.facebook.com)
