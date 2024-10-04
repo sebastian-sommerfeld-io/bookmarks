@@ -28,7 +28,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [LinkedIn](https://www.linkedin.com)
 
 ## Dev Ops
-- [GitHub / Projects / sommerfeld.io](https://github.com/orgs/sommerfeld-io/projects/1/views/14)
+- [GitHub / Projects / sommerfeld.io](https://github.com/orgs/sommerfeld-io/projects/1/views/1)
 - [GitHub / Personal Repos](https://github.com/sebastian-sommerfeld-io)
 - [GitHub / Sommerfeld.io](https://github.com/sommerfeld-io)
 - [GitHub / Gist](https://gist.github.com/sebastian-sommerfeld-io)
