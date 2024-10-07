@@ -115,6 +115,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Docker Blog - Docker](https://www.docker.com/blog)
 - [GitHub Blog](https://github.blog)
 - [GitLab Blog](https://about.gitlab.com/blog)
+- [Kubernetes.io Blog](https://kubernetes.io/blog)
 - [Enable Sysadmin | RedHat](https://www.redhat.com/sysadmin)
 - [Ansible Blog | Ansible.com](https://www.ansible.com/blog?hsLang=en-us)
 - [Architect Elevator Blog](https://architectelevator.com/blog/)
