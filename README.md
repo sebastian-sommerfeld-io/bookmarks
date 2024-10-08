@@ -2,7 +2,6 @@
 
 This repository contains a collection of my relevant bookmarks. It serves as a simple way to organize and access all the websites and resources that I frequently visit. Feel free to explore and use these bookmarks for your own convenience.
 
-
 - [Google](https://www.google.de)
 - [Google / Mail](https://mail.google.com/mail/u/0/?hl=de&tab=wm#inbox)
 - [Google / Calendar](https://calendar.google.com/calendar/u/0/r)
@@ -14,7 +13,8 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Amazon.de](https://www.amazon.de)
 - [Wikipedia DE](https://de.wikipedia.org)
 - [Wikipedia EN](https://en.wikipedia.org)
-- [Whatsapp Web](https://web.whatsapp.com)
+- [Brave - Search with KI](https://search.brave.com)
+- [Whatsapp](https://web.whatsapp.com)
 - [Youtube](https://youtube.com)
 
 ## AI
