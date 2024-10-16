@@ -29,8 +29,8 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 
 ## Dev Ops
 - [GitHub / Projects / sommerfeld.io](https://github.com/orgs/sommerfeld-io/projects/1/views/1)
-- [GitHub / Personal Repos](https://github.com/sebastian-sommerfeld-io)
-- [GitHub / Sommerfeld.io](https://github.com/sommerfeld-io)
+- [GitHub / Repos / Personal](https://github.com/sebastian-sommerfeld-io)
+- [GitHub / Repos / Sommerfeld.io](https://github.com/sommerfeld-io)
 - [GitHub / Gist](https://gist.github.com/sebastian-sommerfeld-io)
 - [GitHub / Maintainer Community](https://maintainers.github.com)
 - [DockerHub](https://hub.docker.com/u/sommerfeldio)
