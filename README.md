@@ -129,18 +129,21 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Heise.de](http://www.heise.de)
 
 ## Certs
-- [LinkedIn Learning](https://www.linkedin.com/learning/certificates/27b6908421caa03113d1e0bff7fd851b415820bf3cd7bd256c6c2a4dbde6bb9d?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BXArTARDKS2i%2FeGyOq5FM4g%3D%3D)
-- [LinkedIn Learning](https://www.linkedin.com/learning/certificates/e60ab016a7579113b5040bf006bd64aeefc0aa1267cfe2838590e99916fad4f0?trk=share_certificate)
-- [LinkedIn Learning](https://www.linkedin.com/learning/certificates/45a91e293b94d3530eef26dafe55f32c70fe7eb97394f84515f8fd0dde50af6d?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3wlY7kwHRWKp9COW2N%2Frwg%3D%3D)
-- [LinkedIn Learning](https://www.linkedin.com/learning/certificates/5eb478aa1fecca97237af896447e8d79c6636f17fbd3ac44d72fbd04d24c868c?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgQR7jyMBSQmJJ%2B7Xkyyc9A%3D%3D)
-- [LinkedIn Learning](https://www.linkedin.com/learning/certificates/c60ed2c4fb2714dfd7b4b2b3ef803be4e6eca4459c9bb516f6b4133ef65035a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgQR7jyMBSQmJJ%2B7Xkyyc9A%3D%3D)
-- [LinkedIn Learning](https://www.linkedin.com/learning/certificates/4d040e2dcfe7655b272b65bcb52004de7cefc83db814ff7ed1f5034187156c7a?trk=share_certificate)
-- [Browse all courses, learning paths, and modules - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/browse)
-- [GitHub Foundations | Microsoft Learn](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
-- [Introduction to GitHub Copilot - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot)
-- [Complete Kotlin development masterclass | Udemy](https://www.udemy.com/course/kotlinmasterclass)
-- [Build RESTFUL APIs using Kotlin and Spring Boot | Udemy](https://www.udemy.com/course/build-restful-apis-using-kotlin-and-spring-boot)
-- [Kotlin for Beginners: Learning Programming With Kotlin | Udemy](https://www.udemy.com/course/kotlin-course)
+- LinkedIn
+    - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/27b6908421caa03113d1e0bff7fd851b415820bf3cd7bd256c6c2a4dbde6bb9d?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BXArTARDKS2i%2FeGyOq5FM4g%3D%3D)
+    - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/e60ab016a7579113b5040bf006bd64aeefc0aa1267cfe2838590e99916fad4f0?trk=share_certificate)
+    - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/45a91e293b94d3530eef26dafe55f32c70fe7eb97394f84515f8fd0dde50af6d?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3wlY7kwHRWKp9COW2N%2Frwg%3D%3D)
+    - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/5eb478aa1fecca97237af896447e8d79c6636f17fbd3ac44d72fbd04d24c868c?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgQR7jyMBSQmJJ%2B7Xkyyc9A%3D%3D)
+    - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/c60ed2c4fb2714dfd7b4b2b3ef803be4e6eca4459c9bb516f6b4133ef65035a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgQR7jyMBSQmJJ%2B7Xkyyc9A%3D%3D)
+    - [LinkedIn Learning](https://www.linkedin.com/learning/certificates/4d040e2dcfe7655b272b65bcb52004de7cefc83db814ff7ed1f5034187156c7a?trk=share_certificate)
+- Microsoft
+    - [Browse all courses, learning paths, and modules - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/browse)
+    - [GitHub Foundations | Microsoft Learn](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+    - [Introduction to GitHub Copilot - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot)
+- [Udemy](https://www.udemy.com/home/my-courses/learning/)
+    - [Complete Kotlin development masterclass | Udemy](https://www.udemy.com/course/kotlinmasterclass)
+    - [Build RESTFUL APIs using Kotlin and Spring Boot | Udemy](https://www.udemy.com/course/build-restful-apis-using-kotlin-and-spring-boot)
+    - [Kotlin for Beginners: Learning Programming With Kotlin | Udemy](https://www.udemy.com/course/kotlin-course)
 - [Dave Farley on Continuous Delivery](https://courses.cd.training/courses/cd-pipelines-webinar)
 
 ## Misc
