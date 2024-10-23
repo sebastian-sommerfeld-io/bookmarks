@@ -140,7 +140,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
     - [Browse all courses, learning paths, and modules - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/browse)
     - [GitHub Foundations | Microsoft Learn](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
     - [Introduction to GitHub Copilot - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot)
-- [Udemy](https://www.udemy.com/home/my-courses/learning/)
+- [Udemy](https://www.udemy.com)
     - [Complete Kotlin development masterclass | Udemy](https://www.udemy.com/course/kotlinmasterclass)
     - [Build RESTFUL APIs using Kotlin and Spring Boot | Udemy](https://www.udemy.com/course/build-restful-apis-using-kotlin-and-spring-boot)
     - [Kotlin for Beginners: Learning Programming With Kotlin | Udemy](https://www.udemy.com/course/kotlin-course)
