@@ -2,5 +2,5 @@
 
 Bookmarks of my Talos cluster on my homelab.
 
-- <http://admin-pi.fritz.box/dashboards>
-- [Pihole](http://admin-pi.fritz.box:1080)
+- Grafana: <http://admin-pi.fritz.box/dashboards>
+- [Pihole Admin UI](http://talos-cp.fritz.box:30080/admin)
