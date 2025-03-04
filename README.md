@@ -23,6 +23,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Google AI Studio](https://aistudio.google.com/app)
 - [GitHub CoPilot](https://github.com/copilot)
 - [Microsoft Designer](https://designer.microsoft.com/image-creator)
+- [Grok](https://grok.com)
 
 ## Social
 - [Facebook](http://www.facebook.com)
