@@ -16,3 +16,4 @@
 - [Assigned Merge Requests](https://gitlab-prod.cpa.de/dashboard/merge_requests?assignee_username=sommerfeld)
 - [Review Merge Requests](https://gitlab-prod.cpa.de/dashboard/merge_requests?reviewer_username=sommerfeld)
 - [Assigned Issues](https://gitlab-prod.cpa.de/dashboard/issues?sort=created_date&state=opened&assignee_username[]=sommerfeld)
+- [Repo: todos-and-memos - Issues](https://gitlab-prod.cpa.de/sommerfeld/todos-and-memos/-/issues)
