@@ -54,6 +54,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [PlantUML.com](https://plantuml.com/de/deployment-diagram)
 - [PlantUML Editor 1](https://plantuml-editor.kkeisuke.com)
 - [PlantUML Editor 2](https://plantuml.mseiche.de)
+- [PlantUML Editor 3 - niolesk](https://niolesk.top)
 - [Jira 8.22.6](https://docs.atlassian.com/software/jira/docs/api/REST/8.22.6)
 - [Jira 9.12.2](https://docs.atlassian.com/software/jira/docs/api/REST/9.12.2)
 
