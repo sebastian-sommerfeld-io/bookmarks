@@ -24,6 +24,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [GitHub CoPilot](https://github.com/copilot)
 - [Microsoft Designer](https://designer.microsoft.com/image-creator)
 - [Grok](https://grok.com)
+- [Poe.com](https://poe.com)
 
 ## Social
 - [Facebook](http://www.facebook.com)
