@@ -21,4 +21,6 @@
 ## Confluence
 
 - [# Kubernetes Platform](https://wiki.cpa.de/display/CPAAC/%23+Kubernetes+Platform) in der cpa.Academy
-- 
+
+## Systems
+- [Minio UI](http://cpa-docker2.itservice.de:9003)
