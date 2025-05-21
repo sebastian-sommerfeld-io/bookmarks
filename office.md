@@ -20,7 +20,8 @@
 ## Jira + Confluence
 
 - [Jira](https://jira.cpa.de)
-- [# Kubernetes Platform](https://wiki.cpa.de/display/CPAAC/%23+Kubernetes+Platform) in der cpa.Academy
+- [Platform Team Confluence Pages](https://wiki.cpa.de/display/SF20/Platform+Team)
+- [# Kubernetes Platform](https://wiki.cpa.de/display/CPAAC/%23+Kubernetes+Platform) in cpa.Academy
 
 ## Systems
 - [Minio UI](http://cpa-docker2.itservice.de:9003)
@@ -32,7 +33,7 @@
     - [VMware vSphere 8.0 Release Notes](https://docs.vmware.com/en/VMware-vSphere/8.0/rn/vmware-vsphere-80-release-notes/index.html)
     - [VMware Tanzu Kubernetes releases Release Notes](https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-releases/services/rn/vmware-tanzu-kubernetes-releases-release-notes/index.html#TKr%201.28.8%20for%20vSphere%208.x)
     - [VMware Tanzu Kubernetes Grid Service Release Notes](https://docs.vmware.com/en/VMware-vSphere/8/rn/vmware-tanzu-kubernetes-grid-service-release-notes/index.html#TKG%20Service%203.0)
-    - [Versionshinweise zu VMware vSphere IaaS Control Plane 8.0](https://docs.vmware.com/de/VMware-vSphere/8.0/rn/vmware-vsphere-with-tanzu-80-release-notes/index.html)
+    - [Versionshinweise VMware vSphere IaaS Control Plane 8.0](https://docs.vmware.com/de/VMware-vSphere/8.0/rn/vmware-vsphere-with-tanzu-80-release-notes/index.html)
     - [Kubernetes Release History](https://kubernetes.io/releases)
 - ArgoCD
     - [Docs ArgoCD](https://argo-cd.readthedocs.io/en/stable)
