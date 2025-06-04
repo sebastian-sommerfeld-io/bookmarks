@@ -52,7 +52,7 @@
 - [ ] [Do you know if all your repositories have up-to-date dependencies?](https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies)
 - [ ] [Good DevEx increases productivity](https://github.blog/2024-01-23-good-devex-increases-productivity)
 - [ ] [How to get in the flow while coding and why it's important](https://github.blog/2024-01-22-how-to-get-in-the-flow-while-coding-and-why-its-important)
-- [ ] [10 unexpected ways to use GitHub Copilot](https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot)
+- [x] [10 unexpected ways to use GitHub Copilot](https://github.blog/2024-01-22-10-unexpected-ways-to-use-github-copilot)
 - [ ] [Schlechte Code-Qualität durch die KI-Assistenten GitHub Copilot und ChatGPT](https://www.heise.de/news/Schlechte-Code-Qualitaet-durch-die-KI-Assistenten-GitHub-Copilot-und-ChatGPT-9609271.html)
 
 # Memo
