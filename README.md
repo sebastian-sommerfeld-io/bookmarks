@@ -114,17 +114,12 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 ## Blogs
 - [codecentric Blog](https://blog.codecentric.de)
 - [DennisWilmsmann.de](http://www.denniswilmsmann.de)
-- [JAXenter.com](http://jaxenter.com)
-- [it republik - Jaxenter](http://it-republik.de/jaxenter)
-- [Java Code Geeks](http://www.javacodegeeks.com)
 - [Work Life by Atlassian](https://www.atlassian.com/blog)
-- [Network Chuck](https://networkchuck.com)
 - [Docker Blog - Docker](https://www.docker.com/blog)
 - [GitHub Blog](https://github.blog)
 - [GitLab Blog](https://about.gitlab.com/blog)
 - [Kubernetes.io Blog](https://kubernetes.io/blog)
-- [Enable Sysadmin | RedHat](https://www.redhat.com/sysadmin)
-- [Ansible Blog | Ansible.com](https://www.ansible.com/blog?hsLang=en-us)
+- [Grafana Labs Blog](https://grafana.com/blog)
 - [Architect Elevator Blog](https://architectelevator.com/blog/)
 - [martinfowler.com](https://martinfowler.com)
 
