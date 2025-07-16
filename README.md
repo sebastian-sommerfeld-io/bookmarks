@@ -112,6 +112,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [FanSale](https://www.fansale.de/auctionListing.htm?PAGE_ID=Auctions)
 
 ## Blogs
+- [End of Life](https://endoflife.date) for lots of apps
 - [codecentric Blog](https://blog.codecentric.de)
 - [DennisWilmsmann.de](http://www.denniswilmsmann.de)
 - [Work Life by Atlassian](https://www.atlassian.com/blog)
