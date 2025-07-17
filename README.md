@@ -40,6 +40,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [DockerHub](https://hub.docker.com/u/sommerfeldio)
 - [SonarCloud](https://sonarcloud.io/projects)
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/login)
+- [Shields.io](https://shields.io)
 
 ### Hosting
 - [All Inkl KAS](https://kas.all-inkl.com)
