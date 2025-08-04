@@ -25,6 +25,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Microsoft Designer](https://designer.microsoft.com/image-creator)
 - [Grok](https://grok.com)
 - [Poe.com](https://poe.com)
+- [Musik GPT](https://musicgpt.com)
 
 ## Social
 - [Facebook](http://www.facebook.com)
