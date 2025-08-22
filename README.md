@@ -24,6 +24,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [GitHub CoPilot](https://github.com/copilot)
 - [Microsoft Designer](https://designer.microsoft.com/image-creator)
 - [Grok](https://grok.com)
+- [Claude AI](https://claude.ai)
 - [Poe.com](https://poe.com)
 - [Musik GPT](https://musicgpt.com)
 
