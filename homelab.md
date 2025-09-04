@@ -1,6 +1,4 @@
-# Talos
+# Homelab Bookmarks
 
-Bookmarks of my Talos cluster on my homelab.
-
-- ...
-- 
+- [Grafana on `admin-pi`](http://admin-pi.fritz.box:3000)
+- [Prometheus on `admin-pi`](http://admin-pi.fritz.box:9090)
