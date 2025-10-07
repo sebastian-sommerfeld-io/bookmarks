@@ -27,6 +27,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Claude AI](https://claude.ai)
 - [Poe.com](https://poe.com)
 - [Musik GPT](https://musicgpt.com)
+- [Sora from ChatGPT](https://sora.chatgpt.com/)
 
 ## Social
 - [Facebook](http://www.facebook.com)
