@@ -1,6 +1,6 @@
 # Office
 
-- [MS Outlook Web Access](https://outlook.office.com)
+- [MS Outlook Web Access](https://outlook.office.com/mail)
 - [MS Teams Web Access](https://teams.microsoft.com/v2/)
 - [TimeTac](https://go.timetac.com/cpagmbh)
 
