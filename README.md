@@ -27,7 +27,8 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Claude AI](https://claude.ai)
 - [Poe.com](https://poe.com)
 - [Musik GPT](https://musicgpt.com)
-- [Sora from ChatGPT](https://sora.chatgpt.com/)
+- [Sora from ChatGPT](https://sora.chatgpt.com)
+- [journey.snipki.de - LinkedIn Profile to Image](https://journey.snipki.de)
 
 ## Social
 - [Facebook](http://www.facebook.com)
