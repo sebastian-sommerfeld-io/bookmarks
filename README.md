@@ -128,6 +128,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Grafana Labs Blog](https://grafana.com/blog)
 - [Architect Elevator Blog](https://architectelevator.com/blog/)
 - [martinfowler.com](https://martinfowler.com)
+- [Kevlin Henney](https://kevlinhenney.medium.com)
 
 ## News
 - [RP-Online](http://www.rp-online.de)
