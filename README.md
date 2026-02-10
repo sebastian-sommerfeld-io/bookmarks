@@ -42,7 +42,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - ![](https://img.shields.io/badge/github-comunity-blue?logo=github) [GitHub / Maintainer Community](https://maintainers.github.com)
 - ![](https://img.shields.io/badge/github-support-blue?logo=github) [Github / My Tickets](https://support.github.com/tickets/personal/0)
 - ![](https://img.shields.io/badge/grafana-cloud-orange?logo=grafana) [Grafana Cloud](https://sommerfeldio.grafana.net/dashboards)
-- ![](https://img.shields.io/badge/dockerhub-blue?logo=docker) [DockerHub](https://hub.docker.com/u/sommerfeldio)
+- ![](https://img.shields.io/badge/docker-hub-blue?logo=docker) [DockerHub](https://hub.docker.com/u/sommerfeldio)
 - ![](https://img.shields.io/badge/sonarqube-cloud-purple?logo=sonarqubecloud) [SonarCloud](https://sonarcloud.io/projects)
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/login)
 - [Shields.io](https://shields.io)
