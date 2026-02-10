@@ -35,13 +35,15 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [LinkedIn](https://www.linkedin.com)
 
 ## Dev Ops
-- [GitHub / Projects / sommerfeld.io](https://github.com/orgs/sommerfeld-io/projects/1/views/1)
-- [GitHub / Repos / Personal](https://github.com/sebastian-sommerfeld-io)
-- [GitHub / Repos / Sommerfeld.io](https://github.com/sommerfeld-io)
-- [GitHub / Gist](https://gist.github.com/sebastian-sommerfeld-io)
-- [GitHub / Maintainer Community](https://maintainers.github.com)
-- [Github / My Tickets](https://support.github.com/tickets/personal/0)
-- [DockerHub](https://hub.docker.com/u/sommerfeldio)
+- ![](https://img.shields.io/badge/github-repo-blue?logo=github) [GitHub / Projects / sommerfeld.io](https://github.com/orgs/sommerfeld-io/projects/1/views/1)
+- ![](https://img.shields.io/badge/github-repo-blue?logo=github) [
+- ![](https://img.shields.io/badge/github-repo-blue?logo=github) GitHub / Repos / Personal](https://github.com/sebastian-sommerfeld-io)
+- ![](https://img.shields.io/badge/github-repo-blue?logo=github) [GitHub / Repos / Sommerfeld.io](https://github.com/sommerfeld-io)
+- ![](https://img.shields.io/badge/github-repo-blue?logo=github) [GitHub / Gist](https://gist.github.com/sebastian-sommerfeld-io)
+- ![](https://img.shields.io/badge/github-repo-blue?logo=github) [GitHub / Maintainer Community](https://maintainers.github.com)
+- ![](https://img.shields.io/badge/github-repo-blue?logo=github) [Github / My Tickets](https://support.github.com/tickets/personal/0)
+- ![](https://img.shields.io/badge/grafana-cloud-orange?logo=grafana) [Grafana Cloud](https://sommerfeldio.grafana.net/dashboards)
+- ![](https://img.shields.io/badge/dockerhub-blue?logo=docker) [DockerHub](https://hub.docker.com/u/sommerfeldio)
 - [SonarCloud](https://sonarcloud.io/projects)
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/login)
 - [Shields.io](https://shields.io)
