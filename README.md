@@ -15,6 +15,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Wikipedia EN](https://en.wikipedia.org)
 - [Brave - Search with KI](https://search.brave.com)
 - [Whatsapp](https://web.whatsapp.com)
+- [Slack](https://app.slack.com/client/T0AT1DNLNES/D0ASXMDC3L3)
 - [Youtube](https://youtube.com)
 
 ## AI
