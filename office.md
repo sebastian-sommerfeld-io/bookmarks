@@ -24,9 +24,6 @@
 - [# Kubernetes Platform](https://wiki.cpa.de/display/CPAAC/%23+Kubernetes+Platform) in cpa.Academy im Wiki
 - [Dokumentations-Leitfaden](https://wiki.cpa.de/pages/viewpage.action?spaceKey=CDC&title=Dokumentations-Leitfaden) in Wiki
 
-## Systems
-- [Minio UI](http://cpa-docker2.itservice.de:9003)
-
 ## Informative Stuff
 
 - Kubernetes
