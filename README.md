@@ -128,6 +128,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [GitLab Blog](https://about.gitlab.com/blog)
 - [Kubernetes.io Blog](https://kubernetes.io/blog)
 - [Grafana Labs Blog](https://grafana.com/blog)
+- [Claude Blog](https://claude.com/blog)
 - [Architect Elevator Blog](https://architectelevator.com/blog/)
 - [martinfowler.com](https://martinfowler.com)
 - [Kevlin Henney](https://kevlinhenney.medium.com)
