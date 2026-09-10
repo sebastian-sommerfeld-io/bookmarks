@@ -1,6 +1,6 @@
 # Omarchy Keybindings Cheat Sheet
 
-## Custom keybindings
+### Custom keybindings
 
 These override the Omarchy defaults on my machines (managed via Ansible).
 
@@ -17,7 +17,7 @@ These override the Omarchy defaults on my machines (managed via Ansible).
 
 > `CTRL SHIFT + K` is documented here as planned — the actual Hyprland binding and launch command will be implemented later.
 
-## General / System
+### General / System
 
 | Keybinding | Action |
 | --- | --- |
@@ -33,7 +33,7 @@ These override the Omarchy defaults on my machines (managed via Ansible).
 | `SUPER + 0`…`9` | Switch to workspace 1-10 |
 | `SUPER SHIFT + 0`…`9` | Move window to workspace 1-10 |
 
-## Terminal / Browser / Files
+### Terminal / Browser / Files
 
 | Keybinding | Action |
 | --- | --- |
@@ -41,7 +41,7 @@ These override the Omarchy defaults on my machines (managed via Ansible).
 | `SUPER SHIFT + RETURN` | Browser |
 | `SUPER SHIFT + F` | File manager |
 
-## Clipboard / Copy-Paste
+### Clipboard / Copy-Paste
 
 | Keybinding | Action |
 | --- | --- |
@@ -50,7 +50,7 @@ These override the Omarchy defaults on my machines (managed via Ansible).
 | `SUPER + X` | Universal cut |
 | `SUPER CTRL + V` | Clipboard manager |
 
-## Screenshots / Recording / Capture
+### Screenshots / Recording / Capture
 
 | Keybinding | Action |
 | --- | --- |
@@ -61,7 +61,7 @@ These override the Omarchy defaults on my machines (managed via Ansible).
 | `SUPER CTRL + C` | Capture menu |
 | `SUPER CTRL + S` | Share |
 
-## Windows
+### Windows
 
 | Keybinding | Action |
 | --- | --- |
