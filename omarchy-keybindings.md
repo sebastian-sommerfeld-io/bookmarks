@@ -15,8 +15,6 @@ These override the Omarchy defaults on my machines (managed via Ansible).
 | `SUPER SHIFT + K` | Open this keybindings cheat sheet in the browser |
 | `SUPER + K` | Lock screen |
 
-> `CTRL SHIFT + K` is documented here as planned — the actual Hyprland binding and launch command will be implemented later.
-
 ### General / System
 
 | Keybinding | Action |
