@@ -5,7 +5,7 @@
 These override the Omarchy defaults on my machines (managed via Ansible).
 
 | Keybinding | Action |
-| --- | --- | --- |
+| --- | --- |
 | `SUPER SHIFT + P` | GitHub Project |
 | `SUPER SHIFT + W` | WhatsApp |
 | `SUPER SHIFT + G` | Grafana |
