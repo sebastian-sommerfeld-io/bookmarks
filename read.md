@@ -56,4 +56,5 @@
 - [ ] [Schlechte Code-Qualität durch die KI-Assistenten GitHub Copilot und ChatGPT](https://www.heise.de/news/Schlechte-Code-Qualitaet-durch-die-KI-Assistenten-GitHub-Copilot-und-ChatGPT-9609271.html)
 
 # Memo
+
 - [ ] [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
