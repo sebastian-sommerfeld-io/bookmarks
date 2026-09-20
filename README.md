@@ -19,6 +19,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Youtube](https://youtube.com)
 
 ## AI
+
 - [Chat GPT](https://chatgpt.com)
 - [Google Gemini](https://gemini.google.com/app)
 - [Google AI Studio](https://aistudio.google.com/app)
@@ -32,10 +33,12 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [journey.snipki.de - LinkedIn Profile to Image](https://journey.snipki.de)
 
 ## Social
+
 - [Facebook](http://www.facebook.com)
 - [LinkedIn](https://www.linkedin.com)
 
 ## Dev Ops
+
 - ![](https://img.shields.io/badge/github-project-blue?logo=github) [GitHub / Projects / sommerfeld.io](https://github.com/orgs/sommerfeld-io/projects/1/views/1)
 - ![](https://img.shields.io/badge/github-repo-blue?logo=github) [GitHub / Repos / Personal](https://github.com/sebastian-sommerfeld-io)
 - ![](https://img.shields.io/badge/github-repo-blue?logo=github) [GitHub / Repos / Sommerfeld.io](https://github.com/sommerfeld-io)
@@ -48,18 +51,15 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/login)
 - [Shields.io](https://shields.io)
 
-### Hosting
-- [All Inkl KAS](https://kas.all-inkl.com)
-- [Linode](https://cloud.linode.com/linodes)
-- [DigitalOcean](https://cloud.digitalocean.com/login)
-
 ### Forums + Help
+
 - [StackOverflow.com](https://stackoverflow.com)
 - [SuperUser.com](https://superuser.com)
 - [ServerFault.com](https://serverfault.com)
 - [AskUbuntu.com](https://askubuntu.com)
 
 ### Docs + API References
+
 - [PlantUML.com](https://plantuml.com/de/deployment-diagram)
 - [PlantUML Editor 1](https://plantuml-editor.kkeisuke.com)
 - [PlantUML Editor 2](https://plantuml.mseiche.de)
@@ -67,17 +67,14 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Jira 8.22.6](https://docs.atlassian.com/software/jira/docs/api/REST/8.22.6)
 - [Jira 9.12.2](https://docs.atlassian.com/software/jira/docs/api/REST/9.12.2)
 
-### Home + Infrastructure
-- [FritzBox](http://192.168.178.1)
-- [DNS Propagation Checker](https://www.whatsmydns.net/#NS/cloud.sommerfeld.io)
-- [SSL Test](https://www.ssllabs.com/ssltest)
-
 ## Private
+
 - [Apple iCloud](https://www.icloud.com)
 - [MS Todo](https://to-do.live.com/tasks)
 - [Faustball.de](http://www.faustball.de)
 
 ### Banking
+
 - [DB Online-Banking](https://meine.deutsche-bank.de/trxm/db)
 - [Postbank: Kundenbereich](https://privatkredit.postbank.de/pbkredit-kundenbereich-web/login.do?nr=27072908)
 - [PayPal](https://www.paypal.com/de/webapps/mpp/privatkunden)
@@ -85,11 +82,13 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Klarna](https://www.klarna.com/de)
 
 ### Fussball
+
 - [Kicker](http://www.kicker.de)
 - [Kicktipp](https://www.kicktipp.de)
 - [Tipico](https://sports.tipico.de/de)
 
 ### Motor Sport
+
 - [Green Hell Driving](https://www.greenhelldriving.nuerburgring.de/#/dashboard)
 - [MotoGP](http://www.motogp.com)
 - [MotoGP - Race Videos](https://www.motogp.com/en/videopass)
@@ -97,6 +96,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [Motorsport-Magazin.com](https://www.motorsport-magazin.com)
 
 ### NHL + DEL + Football
+
 - [ESPN](http://espn.go.com/nhl)
 - [NHL.com](http://www.nhl.com)
 - [TSN](http://www.tsn.ca/nhl)
