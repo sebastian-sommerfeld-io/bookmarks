@@ -50,6 +50,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - ![](https://img.shields.io/badge/sonarqube-cloud-purple?logo=sonarqubecloud) [SonarCloud](https://sonarcloud.io/projects)
 - [Bitwarden Web Vault](https://vault.bitwarden.com/#/login)
 - [Shields.io](https://shields.io)
+- ![](https://img.shields.io/badge/github-repo-blue?logo=digitalocean) [Digital Ocean Console](https://cloud.digitalocean.com)
 
 ### Forums + Help
 
@@ -130,6 +131,7 @@ This repository contains a collection of my relevant bookmarks. It serves as a s
 - [GitHub Blog](https://github.blog)
 - [GitLab Blog](https://about.gitlab.com/blog)
 - [Kubernetes.io Blog](https://kubernetes.io/blog)
+- [Digital Ocean Blog](https://www.digitalocean.com/blog)
 - [Grafana Labs Blog](https://grafana.com/blog)
 - [Claude Blog](https://claude.com/blog)
 - [Architect Elevator Blog](https://architectelevator.com/blog/)
